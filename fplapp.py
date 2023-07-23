@@ -1,10 +1,16 @@
-# This code transforms Paul Corcoran's locally-saved CSVs into a StreamLit app
+# # This Fantasy Premier League project was/is inspired by an article published by Paul Corcoran's on Medium 
+# "A data driven approach to become a better FPL manager" - https://blog.devgenius.io/using-data-to-become-a-better-fpl-manager-2c4d178d6107"
+# The idea is to scrape data from the Fantasy Premier League API and generate a Streamlit tool to present the data in tabular form
 
+# Use this code to transform the locally-saved CSVs into a StreamLit app 
+
+# Load packages
 import streamlit as st
 import pandas as pd
 from PIL import Image
 
-im = Image.open("favicon.png")
+# Load favicon
+im = Image.open("fplapp/favicon.png")
 
 def read_csv(filename):
     df = pd.read_csv(filename)
@@ -14,17 +20,17 @@ def read_csv(filename):
 
 # Define the file names
 file_names = {
-    'Individual Team Data': 'teams.csv',
-    'Goalkeepers': 'goalkeepers.csv',
-    'Defenders': 'defenders.csv',
-    'Midfielders': 'midfielders.csv',
-    'Forwards': 'forwards.csv',
+    'Individual Team Data': 'fplapp/teams.csv',
+    'Goalkeepers': 'fplapp/goalkeepers.csv',
+    'Defenders': 'fplapp/defenders.csv',
+    'Midfielders': 'fplapp/midfielders.csv',
+    'Forwards': 'fplapp/forwards.csv',
 }
 
 def app():
     st.set_page_config(page_title='FPL Data App', layout='wide', page_icon=im)
     st.title('2023-24 Fantasy Premier League Data App')
-    st.markdown("Please use the individual tabs to explore the Fantasy Premier League data - the app data was last updated on 23-07-2023.")
+    st.markdown("Use the individual tabs to explore the Fantasy Premier League data - the app data was last updated on 23-07-2023.")
     
     # Create tabs for each file
     tabs = st.tabs(list(file_names.keys()))
@@ -54,7 +60,6 @@ def app():
 
             # Display the filtered dataframe
             st.dataframe(filtered_df2)
-
 
 if __name__ == '__main__':
     app()
