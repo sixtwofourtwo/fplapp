@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 from PIL import Image
 
-im = Image.open("fpldata/favicon.png")
+im = Image.open("favicon.png")
 
 def read_csv(filename):
     df = pd.read_csv(filename)
@@ -14,11 +14,11 @@ def read_csv(filename):
 
 # Define the file names
 file_names = {
-    'Individual Team Data': 'fpldata/teams.csv',
-    'Goalkeepers': 'fpldata/goalkeepers.csv',
-    'Defenders': 'fpldata/defenders.csv',
-    'Midfielders': 'fpldata/midfielders.csv',
-    'Forwards': 'fpldata/forwards.csv',
+    'Individual Team Data': 'teams.csv',
+    'Goalkeepers': 'goalkeepers.csv',
+    'Defenders': 'defenders.csv',
+    'Midfielders': 'midfielders.csv',
+    'Forwards': 'forwards.csv',
 }
 
 def app():
