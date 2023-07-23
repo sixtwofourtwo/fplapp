@@ -10,7 +10,7 @@ import pandas as pd
 from PIL import Image
 
 # Load favicon
-im = Image.open("fplapp/favicon.png")
+im = Image.open("favicon.png")
 
 def read_csv(filename):
     df = pd.read_csv(filename)
@@ -20,11 +20,11 @@ def read_csv(filename):
 
 # Define the file names
 file_names = {
-    'Individual Team Data': 'fplapp/teams.csv',
-    'Goalkeepers': 'fplapp/goalkeepers.csv',
-    'Defenders': 'fplapp/defenders.csv',
-    'Midfielders': 'fplapp/midfielders.csv',
-    'Forwards': 'fplapp/forwards.csv',
+    'Individual Team Data': 'teams.csv',
+    'Goalkeepers': 'goalkeepers.csv',
+    'Defenders': 'defenders.csv',
+    'Midfielders': 'midfielders.csv',
+    'Forwards': 'forwards.csv',
 }
 
 def app():
