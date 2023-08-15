@@ -1,30 +1,21 @@
 player,team,position,points,bonus,points p/g,form,minutes,now cost,roi per million,conceded,xGA,conceded - xGA,clean sheets,saves,saves per 90
-Aaron Ramsdale,Arsenal,Goalkeeper,143.0,9.0,3.8,0.0,3420.0,5.0,28.6,43.0,42.31,0.6899999999999977,14.0,94.0,2.47
-Emiliano Martínez Romero,Aston Villa,Goalkeeper,135.0,15.0,3.8,0.0,3139.0,5.0,27.0,38.0,43.46,-5.460000000000001,11.0,98.0,2.81
-Robin Olsen,Aston Villa,Goalkeeper,10.0,1.0,2.5,0.0,280.0,4.0,2.5,8.0,8.56,-0.5600000000000005,1.0,11.0,3.54
-Norberto Murara Neto,Bournemouth,Goalkeeper,93.0,9.0,3.4,0.0,2385.0,4.5,20.666666666666668,39.0,44.7,-5.700000000000003,6.0,100.0,3.77
-Mark Travers,Bournemouth,Goalkeeper,28.0,1.0,2.3,0.0,1035.0,4.0,7.0,32.0,19.68,12.32,2.0,36.0,3.13
-David Raya Martin,Brentford,Goalkeeper,166.0,20.0,4.4,0.0,3420.0,5.0,33.2,46.0,50.12,-4.119999999999997,12.0,154.0,4.05
-Robert Sánchez,Brighton,Goalkeeper,82.0,10.0,3.6,0.0,2070.0,4.5,18.22222222222222,30.0,27.6,2.3999999999999986,6.0,48.0,2.09
-Jason Steele,Brighton,Goalkeeper,65.0,8.0,4.3,0.0,1350.0,4.5,14.444444444444445,23.0,23.46,-0.46000000000000085,6.0,37.0,2.47
-Kepa Arrizabalaga,Chelsea,Goalkeeper,118.0,15.0,4.1,0.0,2565.0,5.0,23.6,33.0,38.34,-5.340000000000003,9.0,91.0,3.19
-Vicente Guaita,Crystal Palace,Goalkeeper,99.0,10.0,3.7,0.0,2430.0,4.5,22.0,34.0,38.2,-4.200000000000003,6.0,85.0,3.15
-Sam Johnstone,Crystal Palace,Goalkeeper,36.0,5.0,4.0,0.0,810.0,4.5,8.0,10.0,8.81,1.1899999999999995,3.0,26.0,2.89
-Joe Whitworth,Crystal Palace,Goalkeeper,3.0,0.0,1.5,0.0,180.0,4.0,0.75,5.0,2.07,2.93,0.0,5.0,2.5
-Jordan Pickford,Everton,Goalkeeper,124.0,10.0,3.4,0.0,3330.0,4.5,27.555555555555557,57.0,66.41,-9.409999999999997,8.0,124.0,3.35
-Bernd Leno,Fulham,Goalkeeper,142.0,17.0,3.9,0.0,3240.0,4.5,31.555555555555557,51.0,62.75,-11.75,8.0,144.0,4.0
-Marek Rodák,Fulham,Goalkeeper,7.0,0.0,3.5,0.0,180.0,4.0,1.75,2.0,2.12,-0.1200000000000001,1.0,2.0,1.0
-Alisson Ramses Becker,Liverpool,Goalkeeper,162.0,15.0,4.4,0.0,3330.0,5.5,29.454545454545453,43.0,50.02,-7.020000000000003,14.0,107.0,2.89
-Caoimhin Kelleher,Liverpool,Goalkeeper,2.0,0.0,2.0,0.0,90.0,4.0,0.5,4.0,1.77,2.23,0.0,6.0,6.0
-Ederson Santana de Moraes,Man City,Goalkeeper,121.0,8.0,3.5,0.0,3150.0,5.5,22.0,32.0,28.08,3.9200000000000017,11.0,46.0,1.31
-Stefan Ortega Moreno,Man City,Goalkeeper,23.0,5.0,7.7,0.0,270.0,4.0,5.75,1.0,4.12,-3.12,2.0,14.0,4.67
-Dean Henderson,Man Utd,Goalkeeper,82.0,12.0,4.6,0.0,1620.0,4.5,18.22222222222222,31.0,26.97,4.030000000000001,6.0,54.0,3.0
-Martin Dubravka,Newcastle,Goalkeeper,11.0,1.0,5.5,0.0,156.0,4.0,2.75,1.0,3.33,-2.33,1.0,10.0,5.77
-Nick Pope,Newcastle,Goalkeeper,157.0,14.0,4.2,0.0,3261.0,5.5,28.545454545454547,32.0,39.44,-7.439999999999998,14.0,87.0,2.4
-Wayne Hennessey,Nott'm Forest,Goalkeeper,8.0,0.0,2.0,0.0,271.0,4.0,2.0,5.0,5.43,-0.4299999999999997,0.0,10.0,3.32
-Fraser Forster,Spurs,Goalkeeper,40.0,1.0,2.9,0.0,1215.0,4.0,10.0,24.0,19.21,4.789999999999999,3.0,32.0,2.37
-Hugo Lloris,Spurs,Goalkeeper,89.0,12.0,3.6,0.0,2205.0,5.0,17.8,39.0,30.16,8.84,7.0,79.0,3.22
-Alphonse Areola,West Ham,Goalkeeper,7.0,0.0,1.4,0.0,307.0,4.0,1.75,7.0,7.63,-0.6299999999999999,0.0,9.0,2.64
-Lukasz Fabianski,West Ham,Goalkeeper,127.0,10.0,3.5,0.0,3111.0,4.5,28.22222222222222,48.0,45.55,2.450000000000003,9.0,109.0,3.15
-Daniel Bentley,Wolves,Goalkeeper,6.0,0.0,3.0,0.0,180.0,4.0,1.5,3.0,4.66,-1.6600000000000001,0.0,11.0,5.5
-José Malheiro de Sá,Wolves,Goalkeeper,148.0,18.0,4.1,0.0,3240.0,5.0,29.6,55.0,54.63,0.36999999999999744,11.0,108.0,3.0
+Aaron Ramsdale,Arsenal,Goalkeeper,2.0,0.0,2.0,2.0,90.0,5.0,0.4,1.0,1.18,-0.17999999999999994,0.0,1.0,1.0
+Emiliano Martínez Romero,Aston Villa,Goalkeeper,1.0,0.0,1.0,1.0,90.0,5.0,0.2,5.0,3.44,1.56,0.0,7.0,7.0
+Norberto Murara Neto,Bournemouth,Goalkeeper,2.0,0.0,2.0,2.0,90.0,4.5,0.4444444444444444,1.0,1.07,-0.07000000000000006,0.0,1.0,1.0
+Mark Flekken,Brentford,Goalkeeper,2.0,0.0,2.0,2.0,90.0,4.5,0.4444444444444444,2.0,1.26,0.74,0.0,4.0,4.0
+Jason Steele,Brighton,Goalkeeper,2.0,0.0,2.0,2.0,90.0,4.5,0.4444444444444444,1.0,1.45,-0.44999999999999996,0.0,2.0,2.0
+James Trafford,Burnley,Goalkeeper,2.0,0.0,2.0,2.0,90.0,4.5,0.4444444444444444,3.0,2.21,0.79,0.0,5.0,5.0
+Robert Sánchez,Chelsea,Goalkeeper,2.0,0.0,2.0,2.0,90.0,4.5,0.4444444444444444,1.0,1.28,-0.28,0.0,0.0,0.0
+Sam Johnstone,Crystal Palace,Goalkeeper,6.0,0.0,6.0,6.0,90.0,4.5,1.3333333333333333,0.0,0.49,-0.49,1.0,1.0,1.0
+Jordan Pickford,Everton,Goalkeeper,2.0,0.0,2.0,2.0,90.0,4.5,0.4444444444444444,1.0,1.5,-0.5,0.0,1.0,1.0
+Bernd Leno,Fulham,Goalkeeper,12.0,3.0,12.0,12.0,90.0,4.5,2.6666666666666665,0.0,2.73,-2.73,1.0,9.0,9.0
+Alisson Ramses Becker,Liverpool,Goalkeeper,3.0,0.0,3.0,3.0,90.0,5.5,0.5454545454545454,1.0,1.28,-0.28,0.0,4.0,4.0
+Thomas Kaminski,Luton,Goalkeeper,3.0,1.0,3.0,3.0,90.0,4.5,0.6666666666666666,4.0,4.1,-0.09999999999999964,0.0,8.0,8.0
+Ederson Santana de Moraes,Man City,Goalkeeper,6.0,0.0,6.0,6.0,90.0,5.5,1.0909090909090908,0.0,0.3,-0.3,1.0,1.0,1.0
+André Onana,Man Utd,Goalkeeper,9.0,1.0,9.0,9.0,90.0,5.0,1.8,0.0,2.27,-2.27,1.0,6.0,6.0
+Nick Pope,Newcastle,Goalkeeper,3.0,0.0,3.0,3.0,90.0,5.5,0.5454545454545454,1.0,1.9,-0.8999999999999999,0.0,5.0,5.0
+Matt Turner,Nott'm Forest,Goalkeeper,2.0,0.0,2.0,2.0,90.0,4.0,0.5,2.0,0.83,1.17,0.0,5.0,5.0
+Wes Foderingham,Sheffield Utd,Goalkeeper,4.0,0.0,4.0,4.0,90.0,4.5,0.8888888888888888,1.0,2.01,-1.0099999999999998,0.0,7.0,7.0
+Guglielmo Vicario,Spurs,Goalkeeper,1.0,0.0,1.0,1.0,90.0,5.0,0.2,2.0,2.02,-0.020000000000000018,0.0,4.0,4.0
+Alphonse Areola,West Ham,Goalkeeper,3.0,0.0,3.0,3.0,90.0,4.0,0.75,1.0,1.37,-0.3700000000000001,0.0,4.0,4.0
+José Malheiro de Sá,Wolves,Goalkeeper,2.0,0.0,2.0,2.0,90.0,5.0,0.4,1.0,1.46,-0.45999999999999996,0.0,2.0,2.0
