@@ -30,7 +30,7 @@ file_names = {
 def app():
     st.set_page_config(page_title='FPL Data App', layout='wide', page_icon=im)
     st.title('2023-24 Fantasy Premier League Data App')
-    st.markdown("Use the individual tabs to explore the Fantasy Premier League data - the app data was last updated on 28-08-2023.")
+    st.markdown("Use the individual tabs to explore the Fantasy Premier League data - the app data was last updated on 04-09-2023.")
     
     # Create tabs for each file
     tabs = st.tabs(list(file_names.keys()))
